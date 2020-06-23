@@ -15,12 +15,3 @@ Total there are 3 data sets for year 2000, 2001 and 2002
 1st column = category id
 2nd column = category name
 3rd column -14th column = Jan to Dec monthly sales figures
-
-Cat A
-In 2000	100
-In 2001	115
-In 2002	125
-
-(115-100)/100*100 = 15%
-(125-115)/115*100 = 8.70%
-23.70/2 = 11.x
